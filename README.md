@@ -1,4 +1,4 @@
-# `☠️ KILL BOT ☠️` 
+# `☠️ Tuki - Bot ☠️` 
 
 ### `🏓¿DUDAS SOBRE EL BOT? ¡CONTÁCTANOS!🍁`
 <a href="http://wa.me/56983073328" target="blank"><img src="https://img.shields.io/badge/OFC-INEFFABLE_MVRCO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
